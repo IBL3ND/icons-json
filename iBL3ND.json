@@ -1,14 +1,18 @@
-[
-  {
-    "name": "手动选择",
-    "url": "https://iili.io/K0KvJv1.png"
-  },
-  {
-    "name": "AiTk节点",
-    "url": "https://iili.io/KSBUGgn.png"
-  },
-  {
-    "name": "iBL3ND",
-    "url": "https://iili.io/K0KrBdQ.png"
-  }
-]
+{
+  "name": "iBL3ND",
+  "description": "iBL3ND 图标集（自用 / 持续更新）",
+  "icons": [
+    {
+      "name": "手动选择",
+      "url": "https://iili.io/K0KvJv1.png"
+    },
+    {
+      "name": "AiTk节点",
+      "url": "https://iili.io/KSBUGgn.png"
+    },
+    {
+      "name": "iBL3ND",
+      "url": "https://iili.io/K0KrBdQ.png"
+    }
+  ]
+}
